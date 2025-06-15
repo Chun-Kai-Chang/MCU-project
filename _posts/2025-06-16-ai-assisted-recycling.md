@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-06-16
 title: AI輔助回收分類系統
+date: 2025-06-16
 class: 電機4B
 student ID: (01072137)
 name: 張鈞凱
