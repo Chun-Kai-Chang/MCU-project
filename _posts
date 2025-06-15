@@ -1,0 +1,19 @@
+---
+layout: post
+title: "AI-assisted Recycling Sorting System"
+date: 2025-06-16
+author: 張鈞凱
+categories: [EdgeAI, AMB82-mini]
+---
+
+這是介紹 AMB82-mini ，結合了語音辨識、影像辨識、RTC 模組等，透過 Gemini Vision API 實現智慧分類功能。
+
+## 系統架構圖
+
+![系統圖](https://github.com/你的帳號/MCU-project/blob/main/assets/img/system.png?raw=true)
+
+## 功能說明
+
+- 語音辨識輸入回收物名稱
+- 視覺辨識分類物件
+- SD 卡紀錄時間與分類結果
